@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+</head>
+<body>
+    <p id="para">hello everybody welcome</p>
+    <script>let paragraph=document.getElementById("para").style.backgroundColor="purple"
+    console.log("hello")
+    </script>
+    
+</body>
+</html>
