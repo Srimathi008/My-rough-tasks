@@ -1,0 +1,9 @@
+//mathutil.js
+export function add(a,b){
+    return a+b;
+}
+export const pi=3.14;
+//main.js
+import{add, pi}from'./mathutils.js';
+console.log(add(18,20));
+console.log(pi);
